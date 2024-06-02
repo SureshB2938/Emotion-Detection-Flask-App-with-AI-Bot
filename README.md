@@ -64,6 +64,7 @@ Stop Detection: Click on the "Stop Emotion Detection" button to stop analyzing e
 To shutdown the application and release the webcam, click on the "Shutdown" button.
 
 Screen shorts or output
+
 1
 ![mini3](https://github.com/SureshB2938/emotion-detection-flask/assets/169986337/d8d731ad-bde2-4d2a-99cb-efcff491018f)
 
@@ -72,7 +73,8 @@ Screen shorts or output
 ![mini1](https://github.com/SureshB2938/emotion-detection-flask/assets/169986337/7fd5349a-201c-4ca2-99d6-e6586e9929f2)
 
 3
-![mini1](https://github.com/SureshB2938/emotion-detection-flask/assets/169986337/a6105484-091b-4b48-a8da-305b9cc1bef0)
+![mini2](https://github.com/SureshB2938/emotion-detection-flask/assets/169986337/f98b2f59-5189-41fd-9a40-a9c81d01c586)
+
 
 
 
