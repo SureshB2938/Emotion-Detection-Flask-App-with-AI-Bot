@@ -39,10 +39,12 @@ python -m venv myenv
 
 Manually install the necessary packages:
 
-
 pip install Flask
+
 pip install opencv-python
+
 pip install deepface
+
 
 Run the Flask application:
 
