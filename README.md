@@ -53,6 +53,7 @@ python app.py
 
 Note: Make sure to connect the internet
 
+![mini3](https://github.com/SureshB2938/emotion-detection-flask/assets/169986337/15da74da-e49a-467a-98b0-18569c929759)
 
 
 Open a web browser and go to http://127.0.0.1:5000 to access the application.
