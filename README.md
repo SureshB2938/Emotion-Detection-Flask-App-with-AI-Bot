@@ -23,7 +23,7 @@ installation
 Clone the repository:
 
 
- git clone :
+ git clone : https://github.com/SureshB2938/emotion-detection-flask.git
 
 cd emotion-detection-flask
 
