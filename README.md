@@ -13,19 +13,29 @@ Face Detection: Draws rectangles around detected faces and displays the detected
 AI Chat Bot: Integrated AI bot available on the home page for interactive assistance, built using Azure.
 
 Requirements
+
 Python 3.6+
+
 Flask
+
 OpenCV
+
 DeepFace
+
 TensorFlow
+
 Keras
+
 Installation
+
 Clone the repository:
 
 command prompt
 
 git clone https://github.com/SureshB2938/Emotion-Detection-Flask-App-with-AI-Bot.git
+
 cd Emotion-Detection-Flask-App-with-AI-Bot
+
 Create a virtual environment and activate it:
 
 command prompt
@@ -62,8 +72,11 @@ Open a web browser and go to http://127.0.0.1:5000 to access the application.
 Use the interface to start and stop the emotion detection:
 
 Start Detection: Click on the "Start Emotion Detection" button to begin analyzing emotions.
+
 Stop Detection: Click on the "Stop Emotion Detection" button to stop analyzing emotions.
+
 Shutdown: To shutdown the application and release the webcam, click on the "Shutdown" button.
+
 
 Use the AI Chat Bot:
 
