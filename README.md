@@ -1,4 +1,5 @@
 Emotion-Detection-Flask-App-with-AI-Bot
+
 Real-Time Emotion Detection with Flask, DeepFace, TensorFlow/Keras, and AI Bot
 
 Features
@@ -41,10 +42,15 @@ Create a virtual environment and activate it:
 command prompt
 
 python -m venv myenv
+
 # On Windows use
+
 myenv\Scripts\activate
+
 # On macOS/Linux use
+
 source myenv/bin/activate
+
 Manually install the necessary packages:
 
 command prompt 
@@ -60,8 +66,6 @@ pip install tensorflow
 pip install keras
 
 Run the Flask application:
-
-
 
 python app.py
 
