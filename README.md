@@ -40,11 +40,17 @@ Manually install the necessary packages:
 command prompt 
 
 pip install Flask
+
 pip install opencv-python
+
 pip install deepface
+
 pip install tensorflow
+
 pip install keras
+
 Run the Flask application:
+
 
 
 python app.py
