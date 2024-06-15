@@ -66,7 +66,7 @@ To shutdown the application and release the webcam, click on the "Shutdown" butt
 Screen shorts or output
 
 1
-![mini3](https://github.com/SureshB2938/emotion-detection-flask/assets/169986337/d8d731ad-bde2-4d2a-99cb-efcff491018f)
+
 
 2
 
